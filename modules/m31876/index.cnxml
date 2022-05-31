@@ -1,0 +1,42 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Introduction</title>
+  <metadata>
+  <md:content-id>m31876</md:content-id><md:title>Introduction</md:title>
+  <md:abstract>This module provides an introduction to the Connexions Deomonstration and Tutorial Workshop.  Learners are provided with a list of additional resources, including email addresses and supporting websites, that they may find useful after completing the workshop.</md:abstract>
+  <md:uuid>0ca75a20-51ff-4179-839a-04c61e7a3fb2</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1171325247342">
+      <title>What is Connexions?</title>
+      <para id="id1171334171901"><link url="http://cnx.org/">Connexions</link> is a place to view and share educational material made of small knowledge chunks called modules that can be organized as courses, books, reports, <emphasis effect="italics">etc</emphasis>. Anyone may view or contribute: </para>
+      <list id="id1374275" list-type="bulleted">
+        <item><emphasis effect="bold">authors</emphasis> create and collaborate</item>
+        <item><emphasis effect="bold">instructors</emphasis> rapidly build and share custom collections</item>
+        <item><emphasis effect="bold">learners</emphasis> find and explore content</item>
+      </list>
+    </section>
+    <section id="id1171336945993">
+      <title>System Requirements</title>
+      <para id="id1171336221745">Connexions currently supports the Firefox (version 3.0 and later) and Internet Explorer (version 6.0 and later) web browsers. Additional third-party plug-ins are required for viewing some content, including MathML. For additional information about supported web browsers, please see <link url="http://cnx.org/help/browser-support">http://cnx.org/help/browser-support</link>.</para>
+    </section>
+    <section id="id1171307094659">
+      <title>Contacting Connexions</title>
+      <para id="id1171308121787">There are several ways to get answers about Connexions:</para>
+      <list id="id1171307239231" list-type="bulleted">
+        <item>To ask a question or get more information about the Connexions project, please contact <link url="mailto:cnx@cnx.org">cnx@cnx.org</link>. </item>
+        <item>To report a problem with the site, please visit <link url="http://cnx.org/bug_submit_form">http://cnx.org/bug_submit_form</link> or send an e-mail to <link url="mailto:techsupport@cnx.org">techsupport@cnx.org</link></item>
+        <item>To request technical assistance with the site or with authoring in CNXML, please contact <link url="mailto:techsupport@cnx.org">techsupport@cnx.org</link>.</item>
+        <item>To report a bug or other problem with the site, please visit <link url="http://cnx.org/bug_submit_form">http://cnx.org/bug_submit_form</link>. </item>
+      </list>
+    </section>
+    <section id="id1171337688687">
+      <title>Joining the Connexions Community</title>
+      <para id="id1171306085142">We invite you to participate in the Connexions Community by subscribing to one of the following services:</para>
+      <list id="id1171320221105" list-type="bulleted"><item>To view our blog, please visit <link url="http://blog.cnx.org/">http://blog.cnx.org</link>. RSS feeds for blog posts are also available from this site.</item>
+        <item>To follow us on Twitter, please visit <link url="http://twitter.com/cnxorg">http://twitter.com/cnxorg</link>.</item>
+        <item>To become a fan of Connexions on Facebook, please visit <link url="http://www.facebook.com/cnx.org">http://www.facebook.com/cnx.org</link>.</item>
+      </list>
+    </section>
+  </content>
+</document>

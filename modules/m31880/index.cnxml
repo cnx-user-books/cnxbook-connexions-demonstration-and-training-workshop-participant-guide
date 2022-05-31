@@ -1,0 +1,62 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Connexions Philosophy</title>
+  <metadata>
+  <md:content-id>m31880</md:content-id><md:title>Connexions Philosophy</md:title>
+  <md:abstract>This module provides a CNXML-based version of the Connexions Philosophy page (http://cnx.org/aboutus/).  It describes our motivation for doing what we do the way we do it.</md:abstract>
+  <md:uuid>bb75006a-8ade-4dff-9b67-a8627291732c</md:uuid>
+</metadata>
+
+<content>
+
+<para id="eip-724"><media id="cnx_logo" alt="Connxions logo">
+  <image mime-type="image/png" src="../../media/connexions.png"/>
+</media>
+</para><para id="p1">
+	    Connexions is an environment for collaboratively
+	    developing, freely sharing, and rapidly publishing
+	    scholarly content on the Web. Our <link url="/content/">Content Commons</link> contains educational
+	    materials for everyone - from children to college
+	    students to professionals - organized in small <link url="/help/glossary#module">modules</link>
+	    that are easily connected into larger <link url="/help/glossary#course">collections or courses</link>. All
+	    content is free to use and reuse under the <link url="http://creativecommons.org/">Creative Commons</link> <link url="http://creativecommons.org/licenses/by/2.0/">"attribution"
+	    license</link>.
+	  </para>
+
+<para id="p2"><title>Content should be modular and non-linear</title>Most textbooks are a mass of information in linear format: one topic follows after another.  However, our brains are not linear - we learn by making connections between new concepts and things we already know.  Connexions mimics this by breaking down content into smaller chunks, called modules, that can be linked together and arranged in different ways.  This lets students see the relationships both within and between topics and helps demonstrate that knowledge is naturally interconnected, not isolated into separate classes or books.</para>
+
+<para id="eip-821"><figure id="cnx_figure"><media id="cnx_machine" alt="representation of Connexions as a machine">
+  <image mime-type="image/png" src="../../media/cnx-machine.png" width="400"/>
+</media>
+
+</figure></para><para id="p3"><title>Sharing is good</title>Why re-invent the wheel?  When people share their knowledge, they can select from the best ideas to create the most effective learning materials.  The knowledge in Connexions can be shared and built upon by all because it is reusable:
+
+<list id="demolist" type="labeled-item">
+ <item><label>Technologically</label>We store content in <link url="help/glossary#xml">XML</link>, which ensures that it works on multiple computer platforms now and in the future.</item>
+ <item><label>Legally</label>The <link url="http://www.creativecommons.org">Creative Commons</link>
+     open-content licenses make it easy for authors to share their work - allowing
+     others to use and reuse it legally - while still getting 
+     recognition and attribution for their efforts.</item>
+<item><label>Educationally</label>We encourage authors to write each module to
+     stand on its own so that others can easily use it in different
+     courses and contexts.  Connexions also allows instructors to
+     <emphasis>customize</emphasis> content by overlaying their own set of links and
+     annotations. Please take the <link url="/aboutus/tour/">Connexions Tour</link> and see the many features in Connexions.</item>
+</list>
+</para>
+
+<para id="whateversnext"><title>
+Collaboration is encouraged</title>Just as knowledge is interconnected, people don't live in a vacuum.  Connexions promotes communication 
+between content creators and provides various <link url="/help/reference/collaboration">means of collaboration</link>.  Collaboration helps knowledge grow more quickly, advancing the possibilities for new ideas from which we all benefit.</para>
+
+
+
+
+
+
+
+
+
+   
+  </content>
+  
+</document>

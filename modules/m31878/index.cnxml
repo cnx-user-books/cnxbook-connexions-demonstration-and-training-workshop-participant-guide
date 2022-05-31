@@ -1,0 +1,68 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Site Orientation</title>
+  <metadata>
+  <md:content-id>m31878</md:content-id><md:title>Site Orientation</md:title>
+  <md:abstract>This module provides a basic overview of the Connexions website in order to familiarize learners with the major site features and navigation system.</md:abstract>
+  <md:uuid>6b1f01c7-2480-4948-89e5-4a450344f815</md:uuid>
+</metadata>
+
+<content>
+    <note id="id42057071">See Also: Introduction to Connexions (<link document="m10884">http://cnx.org/content/m10884/latest/</link>) </note>
+    <section id="id42159336">
+      <title>No Login Required</title>
+      <para id="id42159342">You do not need to be logged in to access any of the published content on the site. You can download, view, print, share, or repurpose any content in Connexions for free, without even providing an email address. In fact, the only thing you <emphasis>HAVE</emphasis> to have an account for is to <emphasis>CREATE</emphasis> content, so we can keep track of whose is whose and make sure to give you credit for your work.</para>
+    </section>
+    <section id="id42195365">
+      <title>The Home Page</title>
+      <figure id="id42135232"><media id="id42135232_media" alt="">
+          <image mime-type="image/png" src="../../media/P 1.png" id="id42135232__onlineimage" height="288" width="472"/>
+        </media>
+      <caption>The Connexions home page (<link url="http://cnx.org/">http://cnx.org/</link>)</caption></figure>
+      <para id="id48091994">The following elements appear on the Connexions home page:</para>
+      <section id="id48091999">
+        <title>Featured Content</title>
+        <para id="id48092006">The Featured Content portlet highlights exemplary content that shows what you can do with Connexions. New authors may want to use these materials for inspiration. <figure id="id42011409"><media id="id42011409_media" alt=""><image mime-type="image/png" src="../../media/P 2.png" id="id42011409__onlineimage" height="340" width="250"/></media><caption>The Featured Content portlet</caption></figure></para>
+      </section>
+      <section id="id42011990">
+        <title>Spotlight and News</title>
+        <para id="id42011997">The Spotlight portlet provides a rotating set of vignettes highlighting user feedback, author profiles, and important Conneixons announcements. Hear what’s going on with the project and what others have to say about it. <figure id="id42153786"><media id="id42153786_media" alt=""><image mime-type="image/png" src="../../media/P 3.png" id="id42153786__onlineimage" height="325" width="226"/></media><caption>The Spotlight portlet showing an announcement</caption></figure></para>
+      </section>
+      <section id="id42185849">
+        <title>My Account</title>
+        <para id="id42185856">From the My Account portlet you can log in, request an account, or recover a lost password. <figure id="id42185870"><media id="id42185870_media" alt=""><image mime-type="image/png" src="../../media/P 4.png" id="id42185870__onlineimage" height="242" width="351"/></media><caption>The My Account portlet</caption></figure></para>
+      </section>
+      <section id="id42081574">
+        <title>Find Content</title>
+        <para id="id42081580">The Find Content portlet provides a convenient, abbreviated version of the content search (a full search also available under the “Content” tab or the search bar in the upper right). <figure id="id42184803"><media id="id42184803_media" alt=""><image mime-type="image/png" src="../../media/P 5.png" id="id42184803__onlineimage" height="232" width="397"/></media><caption>The Find Content portlet</caption></figure></para>
+      </section>
+    </section>
+    <section id="id42184827">
+      <title>Navigation</title>
+      <para id="id42184833">The following tabs are used for navigation and appear on every page within Connexions:</para>
+      <section id="id42184839">
+        <title>Home</title>
+        <para id="id42184845">The Home tab will return you to the Connexions home page, located at <link url="http://cnx.org/">http://cnx.org/</link>. <figure id="id42011606"><media id="id42011606_media" alt=""><image mime-type="image/png" src="../../media/P 6.png" id="id42011606__onlineimage" height="279" width="460"/></media><caption>The Home tab</caption></figure></para>
+      </section>
+      <section id="id42011629">
+        <title>Content</title>
+        <para id="id42011635">The Content tab directs you to a comprehensive Search and Browse engine for the Connexions content repository. From here you to search or browse by author, title, subject, language, etc. <figure id="id42056986"><media id="id42056986_media" alt=""><image mime-type="image/png" src="../../media/P 7.png" id="id42056986__onlineimage" height="243" width="463"/></media><caption>The Content tab</caption></figure></para>
+      </section>
+      <section id="id42057009">
+        <title>Lenses</title>
+        <para id="id42057015">The Lenses tab presents a page listing all public lenses, allowing you to find content that has been endorsed by, affiliated with, or recommended by other Connexions users (the Lenses feature will be described in more detail later in the workshop). <figure id="id47583510"><media id="id47583510_media" alt=""><image mime-type="image/png" src="../../media/P 8.png" id="id47583510__onlineimage" height="255" width="488"/></media><caption>The Lenses tab</caption></figure></para>
+      </section>
+      <section id="id47583533">
+        <title>About Us</title>
+        <para id="id47583539">The About Us tab directs you to information about the Connexions project, including our philosophy and mission, project history, sponsors, and so on. <figure id="id47583553"><media id="id47583553_media" alt=""><image mime-type="image/png" src="../../media/P 9.png" id="id47583553__onlineimage" height="244" width="471"/></media><caption>The About Us tab</caption></figure></para>
+      </section>
+      <section id="id42036150">
+        <title>Help</title>
+        <para id="id42036156">The Help tab links to a number of helpful resources, including site feature documentation, author guides, and technical support contact information. <figure id="id42036167"><media id="id42036167_media" alt=""><image mime-type="image/png" src="../../media/P 10.png" id="id42036167__onlineimage" height="260" width="500"/></media><caption>The Help tab</caption></figure></para>
+      </section>
+      <section id="id42036190">
+        <title>MyCNX</title>
+        <para id="id42036196">The MyCNX tab links to the authoring interface. This is the only area of the site you need to log in to your account. <figure id="id42036212"><media id="id42036212_media" alt=""><image mime-type="image/png" src="../../media/P 11.png" id="id42036212__onlineimage" height="269" width="514"/></media><caption>The MyCNX tab</caption></figure></para>
+      </section>
+    </section>
+  </content>
+</document>

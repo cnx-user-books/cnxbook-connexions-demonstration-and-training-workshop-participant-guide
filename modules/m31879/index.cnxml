@@ -1,0 +1,85 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Modules</title>
+  <metadata>
+  <md:content-id>m31879</md:content-id><md:title>Modules</md:title>
+  <md:abstract>This module explains the concept of a "module" within the Connexions system.  Learners are introduced to the "Lego block" approach to building textbooks, courses, and other learning deliverables through the creation of small, interchangeable learning objects.</md:abstract>
+  <md:uuid>987cbeb0-2920-45aa-8560-dc5d17648c8e</md:uuid>
+</metadata>
+
+<content>
+    <note id="id12337931">See Also: 
+<list id="seealso" type="bulleted"><item>Viewing Connexions Content (<link document="m11836">http://cnx.org/content/m11836/latest/</link>)</item><item>About Us/Philosophy (<link url="http://cnx.org/aboutus/">http://cnx.org/aboutus/</link>)</item></list></note>
+    <para id="id9802231">You may have noticed that we refer to content as either a ‘module’ or a ‘collection’. You can think of modules like Lego blocks; they come in all different shapes, colors, and sizes, each with a different purpose in mind, and each capable of standing alone or being combined with other pieces.</para>
+    <para id="id7618261">A module should be designed as a standalone piece of content, usually a single idea or an aspect of a complex idea. Ideally you want to make your module as small as possible without making it dependent on other modules so that other authors can more easily repurpose your work.</para>
+    <para id="id6756784">Examples of a module can include a chapter of a book, a section from a chapter, a journal article, a lab exercise, a homework assignment, or a daily lesson plan, to name a few.</para>
+    <para id="id8562989">Take a look at an example module, Half Steps and Whole Steps (<link document="m10866">http://cnx.org/content/m10866/latest/</link>):</para>
+    <figure id="id9327271"><media id="id9327271_media" alt="">
+        <image mime-type="image/png" src="../../media/P 12.png" id="id9327271__onlineimage" height="315" width="600"/>
+      </media>
+    <caption>A module in Connexions illustrating the use of links, terms, figures, and subfigures</caption></figure>
+    <para id="id9303444">In this case, the module is a single lesson on the topic of Half Steps and Whole Steps; users coming to this from Google or through a Connexions search will be able to use this module as a standalone unit of learning without relying on any additional modules.</para>
+    <para id="id9001153">Notice the use of the following Connexions features:</para>
+    <list id="id8709769" list-type="bulleted">
+      <item>Links to other resources (internal and external links)</item>
+      <item>Terms (can be used as index terms or as glossary terms if definitions provided)</item>
+      <item>Figures and Subfigures (note that these - and other - items are automatically numbered and labeled by Connexions)</item>
+    </list>
+    <figure id="id8262179"><media id="id8262179_media" alt="">
+        <image mime-type="image/png" src="../../media/P 13.png" id="id8262179__onlineimage" height="338" width="600"/>
+      </media>
+    <caption>A module in Connexions illustrating the use of media elements and examples</caption></figure>
+    <list id="id8245996" list-type="bulleted"><item>Multimedia files
+<note id="whatever" type="aside">Notice the “Listen” link following the Whole Tone Scale figure - this links to a .midi file that is played directly in the browser.  In general, if you can embed it or play it in a web browser, you can include it in a Connexions module (assuming your audience’s browsers have the appropriate plug-ins).</note></item>
+      <item>Examples</item>
+    </list>
+    <para id="id10387082">
+      <figure id="id12742198"><subfigure id="sub1">
+        <media id="id12742198_media" alt="">
+          <image mime-type="image/png" src="../../media/P 15.png" id="id12742198__onlineimage" width="300"/>
+        </media>
+       <caption>An exercise with a hidden solution</caption>
+      </subfigure>
+      <subfigure id="fs-id1165782723588">
+        <media id="id11676782_media" alt="">
+          <image mime-type="image/png" src="../../media/P 16.png" id="id11676782__onlineimage" width="300"/>
+        </media>
+       <caption>The same exercise with the solution revealed</caption>
+      </subfigure>
+      <caption>A module in Connexions illustrating the use of an exercise</caption></figure>
+    </para>
+    <list id="id8844892" list-type="bulleted">
+      <item>Exercises (notice the “Show/Hide Solution” feature)</item>
+    </list>
+    <para id="id10922164">Here’s another example, this time one involving math, covering the topic of Fourier Analysis in Complex Spaces (<link document="m10784">http://cnx.org/content/m10784/latest/</link>):</para>
+    <para id="id11519717">
+      <figure id="id5645368"><media id="id5645368_media" alt="">
+          <image mime-type="image/png" src="../../media/P 17.png" id="id5645368__onlineimage" height="315" width="601"/>
+        </media>
+      <caption>A module in Connexions illustrating the use of sections, equations, and MathML </caption></figure>
+    </para>
+    <figure id="id4088887"><media id="id4088887_media" alt="">
+        <image mime-type="image/png" src="../../media/P 18.png" id="id4088887__onlineimage" height="393" width="599"/>
+      </media>
+    <caption>A module in Connexions illustrating the use of notes and subsections (nested elements)</caption></figure>
+    <para id="id5211905">This module includes several elements as the previous example, but also includes:</para>
+    <list id="id9062638" list-type="bulleted">
+      <item>Sections and Subsections (note the use of nested elements)</item>
+      <item>Equations (also numbered automatically by Connexions)</item>
+      <item>Notes</item>
+      <item>Theorems</item>
+    </list>
+    <para id="id8459851">
+      <figure id="id9065959"><media id="id9065959_media" alt="">
+          <image mime-type="image/png" src="../../media/P 19.png" id="id9065959__onlineimage" height="393" width="600"/>
+        </media>
+      <caption>A module in Connexions illustrating the use of a theorem</caption></figure>
+    </para>
+    <para id="id8366146">You may have noticed the use of MathML, a W3C standard language for representing mathematics. This is important because MathML content can be transferred between applications while retaining meaning, is more easily maintained than image files, and is compatible with accessibility features such as screen readers for visually-impaired users.</para>
+    <para id="id8247597">
+      <figure id="id15703819"><media id="id15703819_media" alt="">
+          <image mime-type="image/png" src="../../media/P 20.png" id="id15703819__onlineimage" height="375" width="600"/>
+        </media>
+      <caption>This image shows the display of MathML content after zooming in to several times the standard font size.</caption></figure>
+    </para>
+  </content>
+</document>
